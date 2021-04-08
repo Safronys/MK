@@ -38,7 +38,7 @@ const scorpion = {
     img: 'http://reactmarathon-api.herokuapp.com/assets/scorpion.gif',
     weapon: ['Sword'],
     attack: function (){
-        console.log(pl1.name + ' Fight...');
+        console.log(scorpion.name + ' Fight...');
     }
 }
 
